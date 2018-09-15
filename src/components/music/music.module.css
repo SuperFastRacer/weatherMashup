@@ -1,0 +1,23 @@
+.music-container {
+  position: absolute;
+  width: 600px;
+  /*height: 100px;*/
+  left: 50%;
+  margin-left: -300px; /* margin is -0.5 * dimension */
+  /*margin-top: -50px;*/
+  bottom: 25px;
+}
+.introText {
+  color: white;
+  margin: 30px;
+}
+
+.artistText {
+  color: white;
+  margin: 30px;
+}
+
+.trackNameText {
+  color: white;
+  margin: 30px;
+}

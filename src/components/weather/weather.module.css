@@ -1,0 +1,18 @@
+h1 {
+  font-size: 144px;
+  color: white;
+}
+
+.weather-container {
+  display: flex;
+}
+
+.temperature {
+  position: absolute;
+  width: 100vw;
+  height: 300px;
+  top: 50%;
+  left: 50%;
+  margin-left: -50vw; /* margin is -0.5 * dimension */
+  margin-top: -150px;
+}
