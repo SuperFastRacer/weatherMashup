@@ -1,5 +1,3 @@
-A mashup project that displays the weather at your location with a befitting background gif and song tip.
-
 The used apis are
 
 - Giphy (http://developers.giphy.com) - for gifs
@@ -23,7 +21,7 @@ typing
 npm install
 ```
 
-start the app by typing:
+Start the app by typing:
 
 ```
 npm start
